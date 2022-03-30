@@ -1,0 +1,54 @@
+#navbarNav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.nav-link{
+    margin-right: 20px;
+}
+.logo{
+    width: 70%;
+}
+#cn1{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 42%;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.all{
+    color: orange;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.phones{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#cat{
+    text-align: center;
+}
+.cat{
+    margin-top: 30px;
+}
+.col-sm-3{
+    border: none;
+}
+#pale{
+    width: 100%;
+    border: none;
+
+}
+#gat{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 40px 20px;
+}
